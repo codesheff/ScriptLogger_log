@@ -7,3 +7,4 @@ User: root , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/PublicClon
 22:54:19 , User: root , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/PublicCloneTest.git , Command : ./ScriptDir1/PromptForInputExample.sh param1 param2 , Status : Initialising, Message : Cloned repository! 
 23:07:53 , User: root , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/PublicCloneTest.git , Command : ./ScriptDir1/PromptForInputExample.sh param1 param2 , Status : Initialising, Message : Cloned repository! 
 23:07:53 , User: root , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/PublicCloneTest.git , Command : ./ScriptDir1/PromptForInputExample.sh param1 param2 , Status : Authorised., Message : Authorised 
+23:07:53 , User: root , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/PublicCloneTest.git , Command : ./ScriptDir1/PromptForInputExample.sh param1 param2 , Status : Completed successfully., Message : Completed 
