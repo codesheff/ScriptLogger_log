@@ -34,3 +34,5 @@ User: root , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/PublicClon
 16:59:30 , User: root , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/PublicCloneTest.git , Command : ./ScriptDir1/PromptForInputExample.sh param1 param2 , Params : extraparam1 extraparam2 ; Status : Completed successfully., Message : Completed 
 17:24:37 , User: root , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/PublicCloneTest.git , Command : ./ScriptDir1/PromptForInputExample.sh param1 param2 , Params : extraparam1 extraparam2 ; Status : Initialising, Message : Run requested 
 17:24:37 , User: root , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/PublicCloneTest.git , Command : ./ScriptDir1/PromptForInputExample.sh param1 param2 , Params : extraparam1 extraparam2 ; Status : Completed successfully., Message : Completed 
+17:24:37 , User: root , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/PublicCloneTest.git , Command : ./ScriptDir1/PromptForInputExample.sh param1 param2 , Params : one 2 and 3£
+ ; Status : Initialising, Message : Run requested 
