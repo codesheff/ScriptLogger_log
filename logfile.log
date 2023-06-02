@@ -112,3 +112,4 @@ User: root , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/PublicClon
 17:38:54 , User: stedo , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/PublicCloneTest.git , Command : ./ScriptDir1/PromptForInputExample.sh , Params : ; Status : Initialising, Message : Run requested 
 17:41:58 , User: stedo , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/PublicCloneTest.git , Command : ./ScriptDir1/PromptForInputExample.sh , Params : ; Status : Initialising, Message : Run requested 
 17:46:11 , User: stedo , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/PublicCloneTest.git , Command : ./ScriptDir1/PromptForInputExample.sh , Params : ; Status : Initialising, Message : Run requested 
+17:47:20 , User: stedo , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/PublicCloneTest.git , Command : ./ScriptDir1/PromptForInputExample.sh , Params : ; Status : Initialising, Message : Run requested 
