@@ -182,3 +182,4 @@ User: root , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/PublicClon
 22:12:00 , User: stedo , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/PublicCloneTest.git , Command : ./ScriptDir1/PromptForInputExample.sh , Params : ; Status : Initialising, Message : Run requested 
 22:12:00 , User: stedo , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/PublicCloneTest.git , Command : ./ScriptDir1/PromptForInputExample.sh , Params : ; Status : Completed successfully., Message : Completed 
 22:12:00 , User: stedo , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/TestRepo2.git , Command : ./ScriptDir1/PromptForInputExample.sh , Params : ; Status : Initialising, Message : Run requested 
+22:12:00 , User: stedo , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/TestRepo2.git , Command : ./ScriptDir1/PromptForInputExample.sh , Params : ; Status : Not Authorised., Message : Not Authorised 
