@@ -241,3 +241,4 @@ User: root , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/PublicClon
 12:27:35 , User: stedo , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/TestRepo2.git , Command : ./ScriptDir2/HelloWorld.sh , Params : ; Status : Initialising, Message : Run requested 
 12:27:35 , User: stedo , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/TestRepo2.git , Command : ./ScriptDir2/HelloWorld.sh , Params : ; Status : Not Authorised., Message : Not Authorised 
 12:27:35 , User: stedo , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/TestRepo2.git , Command : ./ScriptDir2/PromptForInputExample.sh , Params : ; Status : Initialising, Message : Run requested 
+12:27:35 , User: stedo , Host: DESKTOP-ATTIC , Repo: https://github.com/codesheff/TestRepo2.git , Command : ./ScriptDir2/PromptForInputExample.sh , Params : ; Status : Completed successfully., Message : Completed 
